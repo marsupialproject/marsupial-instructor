@@ -12,6 +12,7 @@ Marsupial is a free electronic medical record software for healthcare educators.
 - Download Marsupial EMR: https://github.com/marsupialproject/marsupial-emr/releases
 - Download Marsupial Editor: https://github.com/marsupialproject/marsupial-editor/releases
 - Download Marsupial Instructor: https://github.com/marsupialproject/marsupial-instructor/releases
+- Download Marsupial Pharmacy: https://github.com/marsupialproject/marsupial-pharmacy/releases
 # Contribute
 Marsupial is free to use for anyone, but has taken significant time to create and support. It was made with the intent to provide an alternative to for-profit education. Please consider donating to help offset some of the costs of hosting and developing the software.<br/><br/>
 If you would like to help fund or sponsor the project, you can do so via [Ko-Fi](https://ko-fi.com/marsupialemr)
